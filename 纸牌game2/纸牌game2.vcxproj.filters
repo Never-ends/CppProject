@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Card.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CardsCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DownCard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeftCard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RightCard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CardsCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DownCard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftCard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RightCard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="纸牌game2.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\52张扑克牌\cl1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\cl10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\clj.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\clq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\clz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\di10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\dij.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\diq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\diz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\he10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\hej.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\heq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\hez.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\sp10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\spj.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\spq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\52张扑克牌\spz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\牌背景1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\牌背景2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\游戏背景1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\游戏背景2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\牌背景3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\牌背景4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
